@@ -18,8 +18,10 @@ des leviers d'efficience directement transposables aux enjeux de rentabilité en
 - **Power BI** : Le fichier source `.pbix` est disponible dans le dossier `/dashboard`.
 
 ## Aperçu du Tableau de Bord
-![Capture d'écran du Dashboard - Accueil](./images/London Fire Brigade LFB - Accueil.png)
-
+![Capture d'écran - Accueil](./images/London%20Fire%20Brigade%20LFB%20-%20Accueil.png)
+![Capture d'écran - Activités](./images/London%20Fire%20Brigade%20LFB%20-%20Activités.png)
+![Capture d'écran - Territoire](./images/London%20Fire%20Brigade%20LFB%20-%20Territoire.png)
+![Capture d'écran - Performances](./images/London%20Fire%20Brigade%20LFB%20-%20Performances.png)
 
 ## Comment utiliser ce projet
 1. Clonez le dépôt.
