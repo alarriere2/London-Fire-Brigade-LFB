@@ -34,5 +34,5 @@ des leviers d'efficience directement transposables aux enjeux de rentabilité en
 3. Pour les Notebooks : Installez les dépendances via `pip install -r requirements.txt`.
 
 ## Rapport en ligne
-https://app.powerbi.com/view?r=eyJrIjoiZTcwYzVlZTUtZDZmYS00YjQwLWIxODEtMjUxYTkwZDU4MzlkIiwidCI6IjI3YThmZjFkLTc1YTAtNGFlNC1hNTg2LTMxN2NlOWVhYWZmYiJ9
+https://app.fabric.microsoft.com/view?r=eyJrIjoiNWYzZGJkMmYtYTk5Ny00ZTMyLTk4MjEtYjYzODQ5OTcxOGFjIiwidCI6IjQ1ZDUxZDhmLWUyYmYtNGYyZi1iY2YzLTkxMWQyYWM1NDcwMyJ9
 
