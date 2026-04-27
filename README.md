@@ -19,9 +19,7 @@ des leviers d'efficience directement transposables aux enjeux de rentabilité en
 
 ## Aperçu du Tableau de Bord
 ![Capture d'écran du Dashboard - Accueil](./images/London Fire Brigade LFB - Accueil.png)
-![Capture d'écran du Dashboard - Activités](./images/London Fire Brigade LFB - Activités.png)
-![Capture d'écran du Dashboard - Territoire](./images/London Fire Brigade LFB - Territoire.png)
-![Capture d'écran du Dashboard - Performances](./images/London Fire Brigade LFB - Performances.png)
+
 
 ## Comment utiliser ce projet
 1. Clonez le dépôt.
