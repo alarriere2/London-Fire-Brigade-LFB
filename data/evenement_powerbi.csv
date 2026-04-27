@@ -1,0 +1,87 @@
+Date de l’événement;Type d'événement;Nom de l'événement
+06/02/2021;Froid;Tempête Darcy : Neige, verglas et gel des équipements. Trajets ralentis.
+11/02/2021;Froid;Pic de froid historique : Nuit la plus froide depuis 25 ans. Incendies de chauffage et fuites d'eau.
+05/05/2021;Sécurité;London Mayoral Election Eve & Protests : Veille des élections locales. Importants rassemblements et manifestations dans le centre de Londres (notamment liés aux mouvements sociaux post-confinement). Congestion routière et périmètres de sécurité accrus. 
+07/05/2021;Feu;New Providence Wharf fire : Forte mobilisation, saturation locale.
+08/05/2021;Tempête;May 2021 Gale (Vents violents) : Rafales atteignant 80-90 km/h. Nombreux appels pour des structures temporaires de terrasses (récemment rouvertes post-confinement) envolées et chutes d'arbres.
+21/05/2021;Feu;Alfreds Way warehouse fire : Temps d'intervention prolongé, risque de propagation.
+20/06/2021;Inondation;Orages de juin : Précipitations intenses, inondations éclair (Flash Flooding).
+12/07/2021;Inondation;July 2021 floods (Westminster) : Pic d'appels Special Service, routes coupées.
+13/07/2021;Inondation;July 2021 floods (Continuation) : Gestion des crues et pompage.
+16/07/2021;Canicule;Heatwave Alert : Première alerte 2021, hausse des feux de végétation.
+25/07/2021;Inondation;Second July floods : Volume d'appels massif, saturation des centres 999.
+26/07/2021;Inondation;Second July floods (Continuation) : Nettoyage et impact résiduel.
+15/10/2021;Sécurité;Meurtre Sir David Amess : Alerte de sécurité maximale et révision des déploiements.
+14/11/2021;Sécurité;Explosion Liverpool (Alerte Londres) : Menace Grave, présence accrue sur hubs.
+18/02/2022;Tempête;Tempête Eunice : Incidents de structures/arbres, trajets dangereux.
+07/03/2022;Grève;Grève du métro de Londres : Congestion routière massive, impact Travel Time.
+20/04/2022;Feu;Sécheresse printanière : Hausse précoce des feux d'herbe extérieurs.
+26/04/2022;Feu;Incendie majeur (Barking area) : Propagation rapide due à la sécheresse des sols.
+21/06/2022;Grève;Grève nationale du rail (J1) : Congestion routière majeure.
+22/06/2022;Grève;Grève nationale du rail (J2) : Report du trafic sur la route.
+12/07/2022;Canicule;Pré-Canicule 2022 : Sols critiques une semaine avant le record.
+16/07/2022;Canicule;Montée thermique : Hausse significative des feux de broussailles.
+18/07/2022;Canicule;Canicule 2022 (J1) : Hausse des feux de végétation, fatigue des effectifs.
+19/07/2022;Canicule;RECORD (Wennington/Dagenham) : Incident majeur, mobilisation totale, saturation.
+20/07/2022;Canicule;Post-Crise : Sols hyper-secs, risque de reprises de feu.
+24/07/2022;Canicule;Sécheresse prolongée : Volume incidents Outdoor 3x supérieur à la moyenne.
+01/08/2022;Canicule;Déficit hydrique : Les feux d'herbe continuent à un rythme élevé.
+13/08/2022;Canicule;Deuxième pic de chaleur : Multiples incendies simultanés Est/Sud Londres.
+16/08/2022;Inondation;Summer storms (Rainham) : Concentration d'incidents dans l'Est.
+17/08/2022;Inondation;Thunderstorm (Golders Green) : Pics d'appels locaux, pompages.
+08/09/2022;Sécurité;Opération London Bridge (Décès Reine) : Mobilisation sécuritaire, trajets dégradés.
+21/09/2022;Sécurité;Post-Funérailles Royales : Réorganisation logistique et trafic résiduel.
+16/12/2022;Froid;Cold Snap (Neige/Glace) : Allongement critique du Travel Time.
+17/12/2022;Froid;Verglas généralisé : Pic d'accidents et incidents de chauffage.
+19/12/2022;Froid;Persistance du gel : Ruptures de canalisations (Special Service).
+01/02/2023;Grève;Grève multisectorielle : Difficultés de circulation au centre.
+06/05/2023;Sécurité;Couronnement Charles III : Déviations et périmètres de sécurité.
+12/06/2023;Inondation;Thunderstorm (North Circular) : Batch mobilising, temps de réponse dégradés.
+23/06/2023;Canicule;Vague de chaleur juin : Températures > 30°C, feux extérieurs et sauvetages nautiques.
+25/06/2023;Canicule;Pic estival : Hausse des interventions en milieux aquatiques et parcs.
+26/07/2023;Feu;Third Avenue Dagenham fire : Mobilisation lourde sur zone résidentielle.
+28/07/2023;Inondation;Summer Storms : Orages violents, inondations de sous-sols.
+08/09/2023;Canicule;Septembre Record : Chaleur tardive impactant le rythme de rentrée.
+09/09/2023;Canicule;Continuité chaleur : Nuits chaudes, risque incendies domestiques (clim/ventilateurs).
+25/12/2023;Feu;Christmas Day Peak : Augmentation statistiquement significative des incendies de cuisine (cuisson domestique) et des feux liés aux décorations/bougies. Effectifs en mode astreinte festive mais volume d'appels domestiques concentré l'après-midi.
+02/01/2024;Inondation;Tempête Henk : Incidents vent/eau, trajets ralentis par les débris.
+04/01/2024;Inondation;Tempête Henk (Suite) : Sols saturés, structures instables.
+29/01/2024;Tempête;Tempête Ingunn : Rafales violentes, chutes d'arbres.
+01/03/2024;Inondation;Sols saturés (Printemps 2024) : Inondations urbaines fréquentes.
+06/03/2024;Feu;Forest Gate fire : 30 camions, incendie toiture massif, saturation Est.
+29/04/2024;Sécurité;Hainault attack : Mobilisation multi-agences, impact Redbridge.
+20/06/2024;Canicule;Alerte chaleur juin : Hausse des incidents Outdoor.
+20/07/2024;Canicule;Pic thermique juillet : Hausse Secondary Fires (Dagenham sollicitée).
+26/07/2024;Feu;Third Avenue Dagenham (2024) : 15 camions, saturation secteur Est.
+17/08/2024;Inondation;Orages d'août : Pluies soudaines, saturation ponctuelle 999.
+26/08/2024;Feu;Freshwater Road (Spectrum Bldg) : Incident complexe, saturation secteur Est.
+07/09/2024;Inondation;Vigilance Orages : Perturbations locales par routes inondées.
+08/09/2024;Inondation;Orages violents : Inondations éclair localisées, pic d'appels.
+19/09/2024;Inondation;Alerte Pluie Ambre : Début d'épisode extrême, mobilisation accrue.
+21/09/2024;Inondation;Pluies torrentielles : Saturation réseau, hausse temps de réponse.
+23/09/2024;Inondation;Cumul Pluie : Équivalent d'un mois de pluie, Batch Mobilising.
+23/11/2024;Tempête;Tempête Bert (Vents) : Chutes d'arbres, micro-incidents multiples.
+24/11/2024;Tempête;Tempête Bert (Pluies) : Inondations faisant suite aux vents.
+31/12/2024;Sécurité;New Year's Eve : Volume d'appels maximal, déploiement centre-ville.
+05/01/2025;Feu;Pic Hivernal : Fort volume d'incidents de chauffage.
+11/01/2025;Feu;Industrial Risk : Risque accru zones d'entrepôts.
+12/01/2025;Feu;Southall warehouse fire : Major incident, impact disponibilité Ouest.
+14/02/2025;Tempête;Winter Gale : Vents violents, impact vitesse d'intervention.
+20/03/2025;Feu;North Hyde Substation : Fermeture Heathrow, impact logistique majeur.
+01/05/2025;Sécurité;May Day : Congestion routière majeure au centre.
+24/05/2025;Sécurité;Bank Holiday : Hausse trafic et incidents loisirs (barbecues).
+29/05/2025;Grève;Grève des transports : Congestion prévue, impact disponibilité.
+19/06/2025;Canicule;Alerte chaleur précoce : Hausse incidents herbe sèche/clim.
+21/06/2025;Grève;Grève Rail/Tube : Congestion extrême le samedi, impact Travel Time.
+04/07/2025;Sécurité;Impact électoral/public : Manifestations et congestion.
+11/07/2025;Canicule;Pré-pic thermique : Début séquence chaleur intense.
+14/07/2025;Canicule;Heatwave Alert L2 : Hausse appels malaises publics.
+15/07/2025;Canicule;Heatwave Alert L3 : Fatigue équipages, hausse temps de réponse.
+16/07/2025;Canicule;Dagenham wildfire : Volume critique, fumée, barrages.
+17/07/2025;Canicule;Heat & Thunderstorm : Cumul incendies/inondations éclair.
+19/07/2025;Canicule;Vigilance Anniversaire 2022 : Risque de chaleur extrême.
+20/08/2025;Canicule;Chaleur tardive : Feux de végétation sur sols secs.
+06/09/2025;Inondation;Orages fin été : Flash Flooding après été sec.
+09/10/2025;Inondation;Pluies d'Automne : Saturation réseaux drainage urbain.
+22/11/2025;Tempête;Winter Storm Risk : Conditions météo dégradées.
+25/11/2025;Froid;Froid précoce : Incendies domestiques et gel.

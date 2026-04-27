@@ -1,0 +1,288 @@
+﻿Categorie Propriete;Type Propriete;Sous-type Propriete
+Outdoor Structure;Outdoor Structure;Agricultural equipment
+Road Vehicle;Road Vehicle;Agricultural vehicle
+Outdoor;Outdoor;Airfield/runway
+Non Residential;Transport;Airport - fuel storage
+Non Residential;Transport;Airport - hangar
+Non Residential;Transport;Airport - terminal
+Non Residential;Transport;Airport building (not terminal or hangar)
+Non Residential;Transport;Ambulance station
+Non Residential; Agriculture;Animal boarding/breeding establishment - cats
+Non Residential; Agriculture;Animal boarding/breeding establishment - dogs
+Outdoor;Outdoor;Animal harm outdoors
+Non Residential;Industrial;Animal products processing plant
+Non Residential;Leisure;Art Gallery
+Non Residential;Leisure;Athletics Stadium
+Non Residential; Retail;Bakery
+Non Residential; Retail;Bank/Building Society
+Outdoor Structure;Outdoor Structure;Barbecue
+Boat;Boat;Barge
+Non Residential; Agriculture;Barn
+Outdoor;Outdoor;Beach
+Road Vehicle;Road Vehicle;Bicycle
+Non Residential; Retail;Bingo Hall
+Other Residential;Accommodation;Boarding House/B&B for homeless/asylum seekers
+Other Residential;Accommodation;Boarding House/B&B other
+Other Residential;Collective;Boarding School accommodation
+Boat;Boat;Boat - Tanker
+Outdoor Structure;Outdoor Structure;Bridge
+Non Residential;Storage;Bulk gas storage
+Non Residential;Storage;Bulk hazardous materials storage
+Non Residential;Storage;Bulk oil storage
+Non Residential;Storage;Bulk waste storage
+Dwelling;House;Bungalow - single occupancy
+Road Vehicle;Road Vehicle;Bus/coach
+Non Residential;Transport;Bus/coach station/garage
+Outdoor Structure;Outdoor Structure;Cables
+Non Residential;Office;Call Centre
+Outdoor Structure;Outdoor Structure;Camping tent
+Outdoor;Outdoor;Canal/riverbank vegetation
+Road Vehicle;Road Vehicle;Car
+Road Vehicle;Road Vehicle;Caravan on tow
+Dwelling;Mobile;Caravan/Mobile home (permanent dwelling)
+Non Residential; Retail;Casino
+Dwelling;Prestige;Castle (part not open to public)
+Non Residential;Religious;Cathedral
+Outdoor;Outdoor;Cemetery
+Non Residential;Office;Central Government Office
+Non Residential;Industrial;Chemical plant
+Other Residential;Collective;Children's Home
+Non Residential;Religious;Church/Chapel
+Non Residential; Retail;Cinema
+Non Residential;Leisure;Club/night club
+Non Residential;Education;College/University
+Outdoor Structure;Outdoor Structure;Common external bin storage area
+Non Residential;Religious;Community centre/Hall
+Non Residential;Leisure;Concert Hall
+Non Residential;Leisure;Conference Centre
+Dwelling;Apartment;Converted Flat/Maisonette - Up to 2 storeys
+Dwelling;Apartment;Converted Flat/Maisonettes - 3 or more storeys
+Non Residential;Office;Converted office
+Non Residential;Leisure;Cricket ground
+Outdoor;Outdoor;Cycle path/public footpath/bridleway
+Non Residential;Education;Day care/Drop in centre
+Non Residential;Healthcare;Dental surgery
+Non Residential; Retail;Department Store
+Non Residential;Industrial;Distillery plant
+Non Residential;Storage;DIY Warehouse
+Non Residential;Transport;Docks
+Non Residential;Healthcare;Doctors surgery
+Outdoor;Outdoor;Domestic garden (vegetation not equipment)
+Non Residential;Storage;Electrical warehouse
+Non Residential;Transport;Electricity power station
+Non Residential;Industrial;Engineering manufacturing plant
+Non Residential; Retail;Estate Agent
+Non Residential;Leisure;Exhibition Centre
+Non Residential;Industrial;Factory
+Dwelling;Invalid;False Alarm - Property not found
+Outdoor Structure;Outdoor Structure;Fence
+Non Residential;Transport;Ferry terminal
+Non Residential;Transport;Fire station
+Boat;Boat;Fishing boat
+Non Residential;Industrial;Food and drink processing
+Non Residential;Leisure;Football stadium
+Aircraft;Aircraft;Freight plane
+Rail Vehicle;Rail Vehicle;Freight Train
+Non Residential;Storage;Furniture warehouse
+Outdoor Structure;Outdoor Structure;Garden equipment
+Non Residential;Energy;Gas works
+Non Residential;Leisure;Golf clubhouse
+Outdoor;Outdoor;Golf course (not building on course)
+Outdoor;Outdoor;Grassland/ pasture/ grazing etc
+Non Residential; Retail;Greenhouse (commercial) glass
+Non Residential; Retail;Greenhouse (commercial) polytunnel
+Non Residential;Leisure;Greyhound stadium
+Non Residential;Leisure;Gym
+Non Residential; Retail;Hairdresser
+Non Residential;Healthcare;Health Centre
+Non Residential; Agriculture;Health spa/farm
+Outdoor;Outdoor;Heathland
+Outdoor;Outdoor;Hedge
+Aircraft;Aircraft;Helicopter
+Non Residential;Healthcare;Hospital
+Other Residential;Collective;Hostel (e.g. for homeless people)
+Other Residential;Accommodation;Hotel/motel
+Dwelling;House;House - single occupancy
+Dwelling;Multi-use;House in Multiple Occupation - 3 or more storeys (not known if licensed)
+Dwelling;Multi-use;House in Multiple Occupation - Up to 2 storeys (not known if licensed)
+Dwelling;Mobile;Houseboat (permanent dwelling)
+Outdoor;Outdoor;Human harm outdoors
+Non Residential;Leisure;Ice rink
+Non Residential; Retail;Indoor Market
+Non Residential;Leisure;Indoor stadium
+Non Residential;Education;Infant/Primary school
+Non Residential; Agriculture;Intensive Farming Sheds (chickens/ pigs etc)
+Outdoor Structure;Outdoor Structure;Kiosk
+Non Residential;Industrial;Laboratory/research Establishment
+Outdoor;Outdoor;Lake/pond/reservoir
+Outdoor;Outdoor;Landfill site
+Boat;Boat;Large passenger vessel
+Outdoor Structure;Outdoor Structure;Large refuse/rubbish container (eg skip/ paladin)
+Non Residential; Retail;Large supermarket
+Non Residential; Retail;Laundrette
+Non Residential;Office;Law Courts
+Non Residential;Leisure;Leisure Centre
+Non Residential;Education;Library
+Dwelling;Multi-use;Licensed House in Multiple Occupation - 3 or more storeys
+Dwelling;Multi-use;Licensed House in Multiple Occupation - Up to 2 storeys
+Aircraft;Aircraft;Light aircraft
+Non Residential;Office;Local Government Office
+Outdoor;Outdoor;Loose refuse
+Road Vehicle;Road Vehicle;Lorry/HGV
+Non Residential;Industrial;Manufacturing assembly plant
+Non Residential;Healthcare;Medical/health centre
+Aircraft;Aircraft;Military plane
+Other Residential;Institutional;Military/barracks
+Non Residential; Agriculture;Milking Parlour
+Non Residential; Agriculture;Mill
+Outdoor;Outdoor;Mine or quarry (not above ground building)
+Non Residential;Industrial;Mine or quarry building above ground
+Road Vehicle;Road Vehicle;Minibus
+Non Residential;Office;Ministry of Defence office
+Other Residential;Institutional;Monastery/convent
+Non Residential;Religious;Mosque
+Road Vehicle;Road Vehicle;Motor Home
+Boat;Boat;Motor yacht
+Road Vehicle;Road Vehicle;Motorcycle
+Road Vehicle;Road Vehicle;Multiple Vehicles
+Non Residential;Transport;Multi-Storey car park
+Non Residential;Leisure;Museum
+Boat;Boat;Naval vessel
+Outdoor;Outdoor;Nurseries/ market garden
+Other Residential;Other;Nurses'/Doctors' accommodation
+Other Residential;Collective;Nursing/Care Home/Hospice
+Non Residential;Industrial;Oil refinery
+Non Residential; Agriculture;Other agricultural building
+Aircraft;Aircraft;Other aircraft
+Non Residential; Agriculture;Other animal boarding/breeding establishment
+Non Residential;Other;Other building/use not known
+Non Residential;Storage;Other bulk storage
+Non Residential;Transport;Other car park structure
+Non Residential;Other;Other cultural venue
+Dwelling;Other;Other Dwelling
+Non Residential;Education;Other education establishment
+Non Residential;Leisure;Other entertainment venue
+Other Residential;Other;Other holiday residence (cottage/ flat/ chalet)
+Non Residential;Leisure;Other indoor sporting venue
+Non Residential;Industrial;Other industrial manufacturing facility
+Non Residential;Industrial;Other industrial processing plant
+Non Residential;Healthcare;Other medical establishment (including surgery)
+Boat;Boat;Other merchant vessel
+Non Residential;Office;Other office/call centre type building
+Outdoor Structure;Outdoor Structure;Other outdoor equipment/machinery
+Outdoor;Outdoor;Other outdoor location
+Non Residential;Leisure;Other outdoor sporting venue
+Outdoor Structure;Outdoor Structure;Other outdoor structures
+Non Residential;Office;Other private non-residential building
+Non Residential;Public Services;Other public building
+Non Residential;Public Services;Other public utility works
+Non Residential;Religious;Other Religious Use Building
+Other Residential;Other;Other Residential Home
+Non Residential; Retail;Other retail
+Non Residential;Storage;Other retail warehouse
+Road Vehicle;Road Vehicle;Other road vehicle
+Outdoor Structure;Outdoor Structure;Other tent/marquee
+Non Residential;Transport;Other transport building
+Boat;Boat;Other vessel
+Outdoor Structure;Outdoor Structure;Outdoor storage
+Outdoor;Outdoor;Park
+Aircraft;Aircraft;Passenger plane
+Rail Vehicle;Rail Vehicle;Passenger Train (national rail network)
+Non Residential;Transport;Petrol station
+Outdoor Structure;Outdoor Structure;Pipe or drain
+Outdoor;Outdoor;Playground/Recreation area (not equipment)
+Non Residential;Transport;Police station
+Outdoor Structure;Outdoor Structure;Post box
+Non Residential;Office;Post office (purpose built)
+Non Residential; Retail;Post office (within other shop/premises)
+Non Residential;Education;Pre School/nursery
+Non Residential;Industrial;Printing works
+Non Residential;Public Services;Prison
+Non Residential;Transport;Private garage
+Non Residential;Education;Private Garden Shed
+Non Residential; Agriculture;Private greenhouse
+Non Residential;Other;Private Summer house
+Non Residential; Retail;Pub/wine bar/bar
+Non Residential;Public Services;Public toilets
+Dwelling;Apartment;Purpose Built Flats/Maisonettes - 10 or more storeys
+Dwelling;Apartment;Purpose Built Flats/Maisonettes - 4 to 9 storeys
+Dwelling;Apartment;Purpose Built Flats/Maisonettes - Up to 3 storeys
+Non Residential;Office;Purpose built office
+Non Residential;Leisure;Racecourse
+Outdoor Structure;Outdoor Structure;Railings
+Outdoor;Outdoor;Railway
+Non Residential;Transport;Railway building - other
+Outdoor Structure;Outdoor Structure;Railway goods yard
+Outdoor;Outdoor;Railway trackside vegetation
+Outdoor Structure;Outdoor Structure;Recycling collection point/ bottle bank
+Non Residential;Industrial;Recycling plant
+Outdoor Structure;Outdoor Structure;Refuse/rubbish tip
+Non Residential; Retail;Restaurant/cafe
+Other Residential;Other;Retirement/Old Persons Home
+Outdoor;Outdoor;River/canal
+Outdoor;Outdoor;Road surface/pavement
+Road Vehicle;Road Vehicle;Road Tanker
+Outdoor Structure;Outdoor Structure;Roadside furniture (eg lamp posts/ road signs/ telegraph poles/ speed cameras)
+Outdoor;Outdoor;Roadside vegetation
+Dwelling;Prestige;Royal Palace (part not open to public)
+Non Residential;Leisure;Rugby Stadium
+Outdoor;Outdoor;Scrub land
+Outdoor;Outdoor;Sea
+Non Residential;Education;Secondary school
+Dwelling;Assisted;Self contained Sheltered Housing
+Non Residential;Industrial;Sewage works
+Outdoor Structure;Outdoor Structure;Shelter
+Non Residential; Retail;Shopping Centre
+Non Residential; Retail;Single shop
+Outdoor Structure;Outdoor Structure;Small refuse/rubbish container
+Non Residential;Leisure;Sports Hall
+Non Residential;Leisure;Sports pavilion/shower block/changing facility
+Non Residential;Leisure;Sports/Social club
+Outdoor;Outdoor;Stacked/baled crop
+Outdoor;Outdoor;Standing crop
+Dwelling;Prestige;Stately Home (part not open to public)
+Outdoor;Outdoor;Straw/stubble burning
+Other Residential;Temporary;Student Hall of Residence
+Non Residential;Leisure;Swimming Pool
+Non Residential;Religious;Synagogue
+Non Residential; Retail;Takeaway/ fast food
+Outdoor Structure;Outdoor Structure;Telephone box
+Non Residential;Office;Telephone exchange
+Non Residential;Religious;Temple
+Non Residential;Office;Temporary office (eg portacabin)
+Non Residential;Leisure;Tennis Courts
+Non Residential;Leisure;Theatre
+Non Residential;Leisure;Theme Park
+Road Vehicle;Road Vehicle;Towing caravan (not on tow or on site)
+Other Residential;Other;Towing caravan/Camper van on site
+Non Residential;Public Services;Town Hall
+Non Residential; Agriculture;Tractor Shed
+Road Vehicle;Road Vehicle;Trailer (not attached to tractor unit)
+Rail Vehicle;Rail Vehicle;Train on Tube network
+Non Residential;Transport;Train station - concourse
+Non Residential;Transport;Train station - elsewhere
+Non Residential;Transport;Train station - platform (at ground level or elevated)
+Non Residential;Transport;Train station - platform (below ground)
+Non Residential;Transport;Trains - engine shed
+Rail Vehicle;Rail Vehicle;Tram
+Non Residential; Retail;Travel Agent
+Outdoor;Outdoor;Tree scrub
+Outdoor Structure;Outdoor Structure;Tunnel/ subway
+Non Residential;Leisure;TV/film/music/art studio
+Non Residential;Transport;Underground car park
+Rail Vehicle;Rail Vehicle;Underground train : Other system
+Dwelling;Multi-use;Unlicensed House in Multiple Occupation - 3 or more storeys
+Dwelling;Multi-use;Unlicensed House in Multiple Occupation - Up to 2 storeys
+Road Vehicle;Road Vehicle;Van
+Non Residential; Retail;Vehicle Repair Workshop
+Non Residential; Retail;Vehicle sales building
+Non Residential;Healthcare;Veterinary surgery
+Non Residential;Storage;Warehouse
+Outdoor;Outdoor;Wasteland
+Non Residential;Leisure;Water works
+Outdoor Structure;Outdoor Structure;Wheelie bin (domestic size)
+Outdoor;Outdoor;Woodland/forest - broadleaf/hardwood
+Outdoor;Outdoor;Woodland/forest - conifers/softwood
+Non Residential;Other;Young offenders unit
+Other Residential;Collective;Youth hostel
+Non Residential;Public Services;Zoo
