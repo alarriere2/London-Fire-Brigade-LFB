@@ -14,7 +14,7 @@ des leviers d'efficience directement transposables aux enjeux de rentabilité en
 
 ## Contenu du dépôt
 - **Notebooks** : Analyse exploratoire des données (EDA) et nettoyage en Python.
-- **Rapport PDF** : [Cliquez ici pour consulter le rapport complet](./reports/Projet LFB - Groupe 1 - DAB Fev 26 - Rendu Final - Arnaud - 20260330.pdf).
+- **Rapport PDF** : [Cliquez ici pour consulter le rapport complet](./reports/Projet%20LFB%20-%20Groupe%201%20-%20DAB%20Fev%2026%20-%20Rendu%20Final%20-%20Arnaud%20-%2020260330.pdf).
 - **Power BI** : Le fichier source `.pbix` est disponible dans le dossier `/dashboard`.
 
 ## Comment utiliser ce projet
