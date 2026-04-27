@@ -23,7 +23,7 @@ des leviers d'efficience directement transposables aux enjeux de rentabilité en
 ![Capture d'écran - Territoire](./images/London%20Fire%20Brigade%20LFB%20-%20Territoire.png)
 ![Capture d'écran - Performances](./images/London%20Fire%20Brigade%20LFB%20-%20Performances.png)
 
-### Technologies utilisées
+## Technologies utilisées
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
