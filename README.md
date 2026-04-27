@@ -17,6 +17,13 @@ des leviers d'efficience directement transposables aux enjeux de rentabilité en
 - **Rapport PDF** : [Cliquez ici pour consulter le rapport complet](./reports/Projet LFB - Groupe 1 - DAB Fev 26 - Rendu Final - Arnaud - 20260330.pdf).
 - **Power BI** : Le fichier source `.pbix` est disponible dans le dossier `/dashboard`.
 
+## Comment utiliser ce projet
+1. Clonez le dépôt.
+2. Pour le Power BI : Ouvrez le fichier avec Power BI Desktop.
+3. Pour les Notebooks : Installez les dépendances via `pip install -r requirements.txt`.
+
+Ou consultez le rapport en ligne : https://app.fabric.microsoft.com/view?r=eyJrIjoiNWYzZGJkMmYtYTk5Ny00ZTMyLTk4MjEtYjYzODQ5OTcxOGFjIiwidCI6IjQ1ZDUxZDhmLWUyYmYtNGYyZi1iY2YzLTkxMWQyYWM1NDcwMyJ9 
+
 ## Aperçu du Tableau de Bord
 ![Capture d'écran - Accueil](./images/London%20Fire%20Brigade%20LFB%20-%20Accueil.png)
 ![Capture d'écran - Activités](./images/London%20Fire%20Brigade%20LFB%20-%20Activités.png)
@@ -28,11 +35,5 @@ des leviers d'efficience directement transposables aux enjeux de rentabilité en
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Comment utiliser ce projet
-1. Clonez le dépôt.
-2. Pour le Power BI : Ouvrez le fichier avec Power BI Desktop.
-3. Pour les Notebooks : Installez les dépendances via `pip install -r requirements.txt`.
 
-## Rapport en ligne
-https://app.fabric.microsoft.com/view?r=eyJrIjoiNWYzZGJkMmYtYTk5Ny00ZTMyLTk4MjEtYjYzODQ5OTcxOGFjIiwidCI6IjQ1ZDUxZDhmLWUyYmYtNGYyZi1iY2YzLTkxMWQyYWM1NDcwMyJ9
 
