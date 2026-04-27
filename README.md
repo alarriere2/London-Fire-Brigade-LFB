@@ -2,7 +2,7 @@
 
 ## Présentation du projet
 Ce projet analyse les données d'interventions des pompiers de Londres pour identifier les tendances et optimiser les temps de réponse.
-Projet réalisé en collaboration avec Gaëtan S. et Clément R. dans le cadre de la formation "Data Analyst" Lioa - Mines Paris PSL.
+Projet réalisé en collaboration avec Gaëtan S. et Clément R. dans le cadre de la formation "Data Analyst" Liora - Mines Paris PSL (ex - DataScientest).
 
 Les principaux objectifs du projet agréés par l’équipe sont : 
 - présenter un état des lieux des interventions de la LFB sur une période récente,
